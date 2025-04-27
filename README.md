@@ -2,7 +2,6 @@
 
 Welcome to **Tickrr** — a sleek, Material Design-inspired onboarding task management app built using **Vue 3**, **Pinia**,Vue Router and **Vite**!
 
----
 
 ## 🚀 Features
 
@@ -33,7 +32,6 @@ Welcome to **Tickrr** — a sleek, Material Design-inspired onboarding task mana
 
 
 
----
 
 ## 🌟 Bonus Features
 
