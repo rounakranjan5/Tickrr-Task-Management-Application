@@ -34,7 +34,6 @@ Welcome to **Tickrr** — a sleek, Material Design-inspired onboarding task mana
 - **Responsive Design** for mobile, tablet, and desktop
 - SPA using Vue Router
 
----
 
 ## 🌟 Bonus Features
 
