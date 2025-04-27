@@ -1,7 +1,8 @@
-# Tickrr - A Task Management Application
+# [Tickrr - A Task Management Application](https://tickrr-task-management-application.vercel.app/)
 
-Welcome to **Tickrr** — a sleek, Material Design-inspired onboarding task management app built using **Vue 3**, **Pinia**,Vue Router and **Vite**!
+Welcome to **Tickrr** — a sleek, Material Design-inspired onboarding task management app built using **Vue 3**, **Pinia**, Vue Router, and **Vite**!
 
+---
 
 ## 🚀 Features
 
@@ -30,11 +31,9 @@ Welcome to **Tickrr** — a sleek, Material Design-inspired onboarding task mana
 - **Responsive Design** for mobile, tablet, and desktop
 - SPA using Vue Router
 
-
-
+---
 
 ## 🌟 Bonus Features
 
 - **Dark Mode Toggle** (Pinia-managed)
 - **Export Tasks to CSV**
-
