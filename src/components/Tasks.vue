@@ -196,8 +196,8 @@ const csvData = computed(() => {
   </div>
 
   <div v-else class="elsediv">
-    <img src="https://cdn.pixabay.com/photo/2023/01/22/14/39/man-7736545_1280.png" alt="No tasks" height="400px" v-if="!themeStore.isDarkMode" />
-    <img src="/public/darkTheme.png" alt="No tasks" height="400px" v-else />
+    <img src="https://cdn.pixabay.com/photo/2023/01/22/14/39/man-7736545_1280.png" alt="No tasks" height="400px" v-if="!themeStore.isDarkMode" class="elseimg" />
+    <img src="/public/darkTheme.png" alt="No tasks" height="400px" class="elseimg" v-else />
   </div>
 </template>
 
@@ -346,6 +346,13 @@ th {
   }
 
 
+}
+
+@media screen and (max-width:500px) {
+  .elseimg{
+    width: 380px;
+    height: 300px;
+  }
 }
 
 @media screen and (max-width:405px) {
